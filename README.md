@@ -1,4 +1,9 @@
-# README
-This is the official Theme made by Pukima.
+# Pukima Theme
+The official Theme from Pukima.
 
-**Enjoy!**
+## Previews
+Normal Editor Window:
+![Preview](assets/images/preview1.png)
+
+Button Preview:
+![Button Preview](assets/images/button_preview.png)
