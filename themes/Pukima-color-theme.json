@@ -8,7 +8,7 @@
 		"sideBarTitle.foreground": "#efefef",
 		"sideBar.background": "#1e2233",
 		"sideBarSectionHeader.background": "#1b1e2e",
-		"sideBar.border": "#0f121f",
+		"sideBar.border": "#0f121f",	
 		"tab.activeForeground": "#fff",
 		"tab.inactiveBackground": "#112",
 		"activityBar.background": "#181b29",
@@ -17,7 +17,11 @@
 		"titleBar.inactiveBackground": "#112",
 		"statusBar.background": "#181b29",
 		"editorGroupHeader.tabsBackground": "#181b29",
-
+		"button.background": "#7289DA",
+		"button.hoverBackground": "#6376bb",
+		"button.foreground": "#fff",
+		"list.hoverBackground": "#1b1e2e",
+		"list.activeSelectionBackground": "#181b29",
 	},
 	"tokenColors": [
 		{

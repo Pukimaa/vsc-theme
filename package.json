@@ -3,7 +3,12 @@
     "displayName": "Pukima Theme",
     "description": "A Theme created by Pukima with the colors of Pukima.",
     "publisher": "pukima",
-    "version": "1.1.0",
+    "icon": "assets/images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Pukimaa/vsc-theme"
+    },
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.55.0"
     },
