@@ -3,7 +3,7 @@
     "displayName": "Pukima Theme",
     "description": "A Theme created by Pukima with the colors of Pukima.",
     "publisher": "pukima",
-    "version": "0.0.1",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.55.0"
     },
