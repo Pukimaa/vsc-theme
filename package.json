@@ -1,0 +1,21 @@
+{
+    "name": "pukimatheme",
+    "displayName": "Pukima Theme",
+    "description": "A Theme created by Pukima with the colors of Pukima.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pukima Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pukima-color-theme.json"
+            }
+        ]
+    }
+}
